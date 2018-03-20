@@ -1,6 +1,8 @@
 # Telegraph Clone
 
-{TODO. There will be project description}
+This site allows you to post publications anonymously. Each post receives a unique link, and the author can edit his previously posted post.
+
+Site is available [here](https://morning-shelf-48594.herokuapp.com/)
 
 # Project Goals
 
